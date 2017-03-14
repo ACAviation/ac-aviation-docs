@@ -1,5 +1,6 @@
-1 AC Aviation Quality Policy
-----------------------------
+==========================
+AC Aviation Quality Policy
+==========================
 
 Quality is one of our core business functions. We are committed to
 developing, implementing, maintaining and constantly improving quality
@@ -51,8 +52,8 @@ All levels of management and all employees are accountable for the
 delivery of this highest level of quality starting with AC Aviation
 Company Limited (DBA, Bangkok Jets) Accountable Manager.
 
-2 Introduction
---------------
+Introduction
+============
 
 The Quality Assurance Manual enables AC Aviation Company Limited (DBA,
 Bangkok Jets) to monitor compliance with CAAT requirements and the
@@ -88,16 +89,16 @@ be distributed to Company personnel in an electronic format which may
 be accessed through AC Aviation Company Limited (DBA, Bangkok Jets)
 employee’s website.
 
-3 Company Legal Business Name
------------------------------
+Company Legal Business Name
+===========================
 
 AC Aviation Company Limited (DBA, Bangkok Jets) is the Company’s legal
 business name: however, the acronym of ACA shall be used in this
 Quality Assurance Manual when referring to AC Aviation Company Limited
 (DBA, Bangkok Jets)
 
-4 Common Language
------------------
+Common Language
+===============
 
 This entire Quality Assurance Manual has been prepared in accordance
 with ISO 9001/ Quality Management and Part M as specified is in the
@@ -111,8 +112,8 @@ translate and use the manual or parts thereof, into another language
 to ensure that that all personnel are able to understand parts of the
 QAM that pertain to their duties and responsibilities.
 
-5 Principle Place of Business
------------------------------
+Principle Place of Business
+===========================
 
 ACA meets the meets the prescribed requirements applicable to the
 operations of civil aircraft for the purpose of the commercial air
@@ -124,8 +125,8 @@ Tax ID: 0105553043254
 
 Main Offices
 
-6 Changes to ACA's AOC
-----------------------
+Changes to ACA's AOC
+====================
 
 Any change affecting the scope of ACAs AOC or the operations
 specifications that have been triggered by discoveries through a
@@ -140,11 +141,11 @@ prescribed by the CAAT during such changes, as applicable.
 ACA will give the Authority 10 day’s prior notice of a proposed change
 of a Nominated Person unless the circumstances are exceptional.
 
-7 System of Amendment and Revision
-----------------------------------
+System of Amendment and Revision
+================================
 
-7.1 Persons Responsible for Issuance of Amendments and Revisions to the QAM
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Persons Responsible for Issuance of Amendments and Revisions to the QAM
+-----------------------------------------------------------------------
 
 All Nominated Persons will consult with the Head of Quality when they
 feel a revision is necessary to this QAM. The Head of Quality will
