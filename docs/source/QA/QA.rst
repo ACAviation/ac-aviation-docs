@@ -11,46 +11,81 @@ and international standards, while delivering our services.
 
 Our commitment is to:
 
-1. Support the management of quality through the provision of all
-   appropriate resources that will result in an organizational culture
-   that fosters the best practices, encourages safety through quality,
-   encourages communication between all departments and actively
-   manages the quality system.
+    1. Support the management of quality through the provision of all
+       appropriate resources that will result in an organizational culture
+       that fosters the best practices, encourages safety through quality,
+       encourages communication between all departments and actively
+       manages the quality system.
 
-2. Enforce the management of quality as a primary responsibility
-   of all Nominated Persons, department managers and employees.
+    2. Enforce the management of quality as a primary responsibility
+       of all Nominated Persons, department managers and employees.
 
-3. Clearly defines Nominated Persons and employees quality
-   responsibilities in their assigned duties.
+    3. Clearly defines Nominated Persons and employees quality
+       responsibilities in their assigned duties.
 
-4. Ensure and open door policy that ensures that no disciplinary
-   action will be taken against any employee who discloses a quality,
-   safety or compliance concern through the voluntary reporting
-   system, unless such disclosure indicates, beyond any reasonable
-   doubt, an illegal act, gross negligence, or a deliberate or wilful
-   disregard of regulations or procedures as determined by the Head of
-   Flight Operations.
+    4. Ensure and open door policy that ensures that no disciplinary
+       action will be taken against any employee who discloses a quality,
+       safety or compliance concern through the voluntary reporting
+       system, unless such disclosure indicates, beyond any reasonable
+       doubt, an illegal act, gross negligence, or a deliberate or wilful
+       disregard of regulations or procedures as determined by the Head of
+       Flight Operations.
 
-5. Complying with and, wherever possible, exceed, legislative and
-   regulatory requirements and standards;
+    5. Complying with and, wherever possible, exceed, legislative and
+       regulatory requirements and standards;
 
-6. Ensure that sufficient skilled and trained human resources are
-   available to implement quality strategies and processes.
+    6. Ensure that sufficient skilled and trained human resources are
+       available to implement quality strategies and processes.
 
-7. Ensure that all staff are provided with adequate and
-   appropriate aviation quality information and training are provided
-   to all employees.
+    7. Ensure that all staff are provided with adequate and
+       appropriate aviation quality information and training are
+       provided to all employees.
 
-8. Continually improve our quality performance through management
-   processes that ensure that relevant actions are taken and are
-   effective.
+    8. Establish and measure our quality performance against realistic
+       safety and quality performance targets.
 
-9. Ensure that our contract service providers systems and
-   services that support our operations meet our quality standards.
+
+    9. Continually improve our quality performance through management
+       processes that ensure that relevant actions are taken and are
+       effective.
+
+    10. Ensure that our contract service providers systems and
+       services that support our operations meet our quality standards.
 
 All levels of management and all employees are accountable for the
 delivery of this highest level of quality starting with AC Aviation
 Company Limited (DBA, Bangkok Jets) Accountable Manager.
+
+AC Aviation Company Limited (DBA, Bangkok Jets) Quality Assurance Manual Signature Page
+---------------------------------------------------------------------------------------
+
+
+Issue 00 Revision 00
+
+Date: 01/03/2017
+
+Approval / Acceptance No.:
+
+Head of Flight Operations Name:
+Signature:
+
+Head of Quality Name:
+Signature:
+
+Accountable Manager Name:
+Signature:
+
+CAAT Acceptance
+---------------
+
+CAAT Approval referecene:
+Inspector Name:
+Signature:
+
+Director Name:
+Signature:
+
+
 
 Introduction
 ============
@@ -157,6 +192,7 @@ of a Nominated Person unless the circumstances are exceptional.
 System of Amendment and Revision
 ================================
 
+
 Persons Responsible for Issuance of Amendments and Revisions to the QAM
 -----------------------------------------------------------------------
 
@@ -171,24 +207,24 @@ approval.
 The following Nominated Persons are responsible for any
 revisions to this QAM for the department that they oversee:
 
-The Head of Flight Operations is responsible for overseeing and the
-issuance of ALL revisions and amendments to the QAM;
+* The Head of Flight Operations is responsible for overseeing and the
+  issuance of ALL revisions and amendments to the QAM;
 
-The Head of Quality will oversee revisions related to ACA's Quality
-Assurance Manual relating to quality that is applicable to flight,
-ground operations and training topics;
+* The Head of Quality will oversee revisions related to ACA's Quality
+  Assurance Manual relating to quality that is applicable to flight,
+  ground operations and training topics;
 
-The Head of Flight Training will oversee revisions related to quality
-for ground and flight training for all Flight and In-Flight Service
-Representatives; The Head of Engineering will oversee revisions
-related to quality in the maintenance department and Part M.
+* The Head of Flight Training will oversee revisions related to quality
+  for ground and flight training for all Flight and In-Flight Service
+  Representatives; The Head of Engineering will oversee revisions
+  related to quality in the maintenance department and Part M.
 
-The Head of Ground Training will oversee revisions related to
-quality for all ground operations and ground training subjects for all
-ground operations employees and contracted ground handling companies;
+* The Head of Ground Training will oversee revisions related to
+  quality for all ground operations and ground training subjects for all
+  ground operations employees and contracted ground handling companies;
 
-The Security Manager will oversee all quality related revisions for
-security and security training of ACA employees.
+* The Security Manager will oversee all quality related revisions for
+  security and security training of ACA employees.
 
 Note: The person making a revision to this Quality Assurance Manual is
 responsible for checking all other ACA manuals to ensure that the
