@@ -1223,7 +1223,7 @@ The following acronyms are used in the QAM and associated forms.
 |                |Association     |
 |                |                |
 +----------------+----------------+
-|ATC             | Air Traffic    |
+|ATC             |Air Traffic     |
 |                |Control         |
 |                |                |
 +----------------+----------------+
@@ -1270,7 +1270,7 @@ The following acronyms are used in the QAM and associated forms.
 |                |Administration  |
 |                |                |
 +----------------+----------------+
-|FCOM            | Flight Crew    |
+|FCOM            |Flight Crew     |
 |                |Operating Manual|
 +----------------+----------------+
 |FLT             |Flight          |
@@ -1315,8 +1315,8 @@ The following acronyms are used in the QAM and associated forms.
 |                |Organization    |
 |                |                |
 +----------------+----------------+
-|LEP List of     |Effective Pages |
-|                |                |
+|LEP             |List of         |
+|                |Effective Pages |
 +----------------+----------------+
 |No.             |Number          |
 +----------------+----------------+
