@@ -292,8 +292,8 @@ creating the QAM.  The Head of Quality shall ensure that the QAM is
 maintained in a form in which it can be used without difficulty.
 
 AC Aviation shall utilize our Quality Assurance System (QAS) to assess
-reported or discovered non-compliance related to AC Aviation Company
-Limited (DBA, Bangkok Jets) flight and maintenance operations.
+reported or discovered non-compliance related to AC Aviation flight
+and maintenance operations.
 
 AC Aviation QAS addresses the formal and systematic approach to
 overall quality and its related processes and activities rather than
@@ -314,20 +314,18 @@ employee’s website.
 Company Legal Business Name
 ===========================
 
-AC Aviation  is the Company’s legal
-business name: however, the acronym of ACA shall be used in this
-Quality Assurance Manual when referring to AC Aviation Company Limited
-(DBA, Bangkok Jets)
+AC Aviation is the Company’s legal business name: however, the acronym
+of ACA shall be used in this Quality Assurance Manual when referring
+to AC Aviation.
 
 Common Language
 ===============
 
 This entire Quality Assurance Manual has been prepared in accordance
 with ISO 9001/ Quality Management and Part M as specified is in the
-English language.  Should it become necessary for AC Aviation Company
-Limited (DBA, Bangkok Jets) to produce a new Quality Assurance Manual
-or major parts of the Quality Assurance Manual, it will be prepared in
-the English language.
+English language.  Should it become necessary for AC Aviation to
+produce a new Quality Assurance Manual or major parts of the Quality
+Assurance Manual, it will be prepared in the English language.
 
 ACA understands that with the approval of the Authority we may
 translate and use the manual or parts thereof, into another language
