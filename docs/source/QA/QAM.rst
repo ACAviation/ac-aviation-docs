@@ -1307,8 +1307,8 @@ The following acronyms are used in the QAM and associated forms.
 |                |Organization    |
 |                |                |
 +----------------+----------------+
-|IFR Instrument  |Flight Rules    |
-|                |                |
+|IFR             |Instrument      |
+|                |Flight Rules    |
 +----------------+----------------+
 |ISO             |International   |
 |                |Standard        |
