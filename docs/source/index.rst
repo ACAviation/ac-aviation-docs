@@ -3,13 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. header:: /images/AC_Aviation_Logo.jpg
-            :scale: 75%
-            :alt: AC Aviation Logo
-            :align: center
-
-.. footer:: AC Aviation Manual Updated 2017
-
 .. image:: /images/AC_Aviation_Logo.jpg
 	:scale: 100 %
 	:alt: AC Aviation Logo
@@ -81,7 +74,7 @@ Manuals
    AMP/AMP
    WI/WI
    OM/OM
-   QA/QA
+   QA/QAM
    AirAmbulance/Air_Ambulance_Patient_Safety_Goals
 
 Aircraft Technical Publication
