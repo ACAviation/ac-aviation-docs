@@ -10,17 +10,20 @@
 
 .. topic:: `Welcome to AC Aviation`
 
-AC Aviation Company Limited or commercially known as Bangkok Jets was founded on
-the belief that charter flight service could be done better. Not by buying
-bigger planes, or building larger facilities, but by thinking small down to the
-last detail. By looking at the charter flight business from the customer’s point
-of view, we realized that the best possible flight experience came from superior
-service. In building Bangkok Jets around this passenger-centric view, we created
-a business philosophy of anticipating problems before they happen, and making
-sure that connections are always made and communication is never lost. Our
-mission is to provide the best charter flight journeys for our passenger, from
-endpoint to endpoint, by designing and maintaining the experience from the
-passenger point of view. You’ll see it in everything we do.
+   AC Aviation Company Limited or commercially known as Bangkok Jets
+   was founded on the belief that charter flight service could be done
+   better. Not by buying bigger planes, or building larger facilities,
+   but by thinking small down to the last detail. By looking at the
+   charter flight business from the customer’s point of view, we
+   realized that the best possible flight experience came from
+   superior service. In building Bangkok Jets around this
+   passenger-centric view, we created a business philosophy of
+   anticipating problems before they happen, and making sure that
+   connections are always made and communication is never lost. Our
+   mission is to provide the best charter flight journeys for our
+   passenger, from endpoint to endpoint, by designing and maintaining
+   the experience from the passenger point of view. You’ll see it in
+   everything we do.
 
 .. image:: /images/ACA_Hangar.png
 	:scale: 55 %
@@ -37,8 +40,8 @@ staff can provide expert service and support that makes a crucial difference.
 
 AC Aviation provides two (2) Beechjet 400 aircrafts dedicated for air
 ambulatory services and one Hawker 850XP for charter flight
-services. All aircraft are under the registration of Department of
-Civil Aviation (:abbr:`DCA`) Thailand.
+services. All aircraft are under the registration of Civil Aviation
+Authority of Thailand (:abbr:`CAAT`) ~DCA~.
 
 ============================
  AC Aviation Documentations
@@ -75,7 +78,7 @@ Manuals
    WI/WI
    OM/OM
    QA/QAM
-   AirAmbulance/Air_Ambulance_Patient_Safety_Goals
+.. AirAmbulance/Air_Ambulance_Patient_Safety_Goals
 
 Aircraft Technical Publication
 ==============================

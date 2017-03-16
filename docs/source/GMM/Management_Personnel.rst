@@ -1,9 +1,12 @@
-AC Aviation Human Resources ===========================
+=============================
+ AC Aviation Human Resources
+=============================
 
 .. index:: Accountable Manager/General Manager
 .. _`Accountable Manager/General Manager`:
 
-Accountable Manager/General Manager ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Accountable Manager/General Manager
+===================================
 
 .. figure:: /images/Permanent/Stephen_Levesque.png
 	:scale: 100 %
@@ -50,7 +53,8 @@ l) Perform and fulfil any mission assigned by the Board of Directors.
 .. index:: Flight Operations Director (DO)
 .. _`Flight Operations Director`:
 
-Flight Operations Director (DO) ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Flight Operations Director (DO)
+===============================
 
 .. figure:: /images/Permanent/CaptainPalangKumlek.jpg
    :scale: 25 %
@@ -110,7 +114,8 @@ p) In the event of an incident/accident or off-normal event, the Flight
 .. index:: Quality Assurance Officer
 .. _`Quality Assurance Officer`:
 
-Quality Assurance Officer ^^^^^^^^^^^^^^^^^^^^^^^^^^
+Quality Assurance Officer
+=========================
 
 :ref:`Jesse L.`
 
@@ -158,7 +163,8 @@ m) Perform other duties assigned by the Director of Flight operations or Quality
 .. index:: Chief Pilot
 .. _`Chief Pilot`:
 
-Chief Pilot ^^^^^^^^^^^
+Chief Pilot
+===========
 
 The Chief Pilot is appointed by an reports to the :ref:`Flight Operations
 Director` Duties and responsibilities are as follows:
@@ -195,7 +201,8 @@ h) Ensuring that any irregularities of duty or rest time are reported to
 .. index:: Training Manager
 .. _`Training Manager`:
 
-Training Manager ^^^^^^^^^^^^^^^^
+Training Manager
+================
 
 Training and Safety Manager reports direct to :ref:`Flight Operations
 Director`. Duties and responsibilities are as follows:
@@ -239,7 +246,8 @@ l) Submit ideas to improve the efficiency of training concerned;
 .. index:: Flight Safety Officer
 .. _`Flight Safety Officer`:
 
-Flight Safety Officer ^^^^^^^^^^^^^^^^^^^^^
+Flight Safety Officer
+=====================
 
 The Flight Safety Officer is appointed by and reports to the :ref:`Flight
 Operations Director`. He/She supervises and promotes all operational safety
@@ -284,7 +292,8 @@ m) Liaise with DCA, manufacturer and relevant external entities on safety
 .. index:: Flight Operations Manager
 .. _`Flight Operations Manager`:
 
-Flight Operations Manager ^^^^^^^^^^^^^^^^^^^^^^^^^
+Flight Operations Manager
+=========================
 
 The Flight Operations Manager reports to the :ref:`Flight Operations Director`,
 In detail, his responsibilities and duties are to:
@@ -338,7 +347,8 @@ p) Perform any other duties assigned by the Director of Flight Operations
 .. index:: Dispatcher
 .. _`Dispatcher`:
 
-Dispatcher ^^^^^^^^^^
+Dispatcher
+==========
 
 Dispatcher reports direct to :ref:`Flight Operations Manager`. Duties and
 responsibilities are as follows:
@@ -404,7 +414,8 @@ s) Continuously monitor all aeronautical information in term of NOTAM, AIP and
 .. index:: Assistant Dispatcher
 .. _`Assistant Dispatcher`:
 
-Assistant Dispatcher ^^^^^^^^^^^^^^^^^^^^
+Assistant Dispatcher
+====================
 
 Duties and responsibilities for an Assistant Dispatcher are:
 
@@ -448,7 +459,8 @@ l) Perform any other duties assigned by the Duty Officer or License Dispatcher
 .. index:: Maintenance Director
 .. _`Maintenance Director`:
 
-Maintenance Director ^^^^^^^^^^^^^^^^^^^^^
+Maintenance Director
+====================
 
 
 Report to: :ref:`Accountable Manager/General Manager`
@@ -491,7 +503,8 @@ g) Suggest to the Director of Operation for part requisition for fleet
 .. index:: Chief of Maintenance
 .. _`Chief of Maintenance`:
 
-Chief of Maintenance ^^^^^^^^^^^^^^^^^^^^
+Chief of Maintenance
+====================
 
 Report to: :ref:`Maintenance Director`
 
@@ -558,7 +571,8 @@ o) Take responsibility for maintenance reliability program.
 .. index:: Quaity Control Officer
 .. _`Quality Control Officer`:
 
-Quality Control Officer ^^^^^^^^^^^^^^^^^^^^^^^
+Quality Control Officer
+=======================
 
 :ref:`Supawan K.`
 
@@ -606,7 +620,8 @@ i) Periodically audit the Subcontract for aircraft maintenance activities,
 .. index:: Engineering & Planning Control Officer
 .. _`Engineering & Planning Control Officer`:
 
-Engineering & Planning Control Officer ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Engineering & Planning Control Officer
+======================================
 
 :ref:`Repop P.`
 
@@ -618,7 +633,8 @@ k) Prepare Weight and balance Report.
 .. index:: Material & Logistic Officer
 .. _`Material & Logistic Officer`:
 
-Material & Logistic Officer ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Material & Logistic Officer
+===========================
 
 :ref:`Yothin T.`
 
@@ -647,7 +663,8 @@ h) Any additional duties, as may be required by the management.
 .. index:: Assistant Planner
 .. _`Assisant Planner`:
 
-Assistant Planner ^^^^^^^^^^^^^^^^^
+Assistant Planner
+=================
 
 Reports directly to :ref:`Engineering & Planning Control Officer` and has duties
 and responsible to:
@@ -661,7 +678,8 @@ c) Any additional duties, as may be required by the management.
 .. index:: Technicians
 .. _`Technicians`:
 
-Technicians ^^^^^^^^^^^
+Technician
+==========
 
 Report to: Report to the :ref:`Chief of Maintenance`
 
@@ -699,7 +717,8 @@ f) Perform and fulfill any special mission or task assigned by the Chief of
 .. index:: Mechanics
 .. _`Mechanics`:
 
-Mechanics ^^^^^^^^^
+Mechanics
+=========
 
 Report to: Report to the :ref:`Technicians`
 

@@ -12,15 +12,19 @@ pages. Remove corresponding old pages and replace or add new
 pages. Remove pages marked DELETED; there are no replacement pages for
 deleted pages.
 
-+-----------------+----------+-------+-----------+------+--------+--------+
-|Revision Number  |Date      |Page(s)|Explanation|Date  |Approved|Initials|
-|                 |of        |Revised|of What has|of    |and     |        |
-|                 |Issue     |       |been       |Insert|Inserted|        |
-|                 |          |       |Revised or |      |By      |        |
-|                 |          |       |Removed    |      |        |        |
-+-----------------+----------+-------+-----------+------+--------+--------+
-|Origianl         |01/03/2017|       |           |      |        |        |
-+-----------------+----------+-------+-----------+------+--------+--------+
++-----------------+----------+--------+-----------+------+--------+--------+
+|Revision Number  |Date      |Page(s) |Explanation|Date  |Approved|Initials|
+|                 |of        |Revised |of What has|of    |and     |        |
+|                 |Issue     |        |been       |Insert|Inserted|        |
+|                 |          |        |Revised or |      |By      |        |
+|                 |          |        |Removed    |      |        |        |
++=================+==========+========+===========+======+========+========+
+|Original         |01/03/2017|Details |           |      |        |        |
+|                 |          |follow  |           |      |        |        |
+|                 |          |in the  |           |      |        |        |
+|                 |          |next    |           |      |        |        |
+|                 |          |section.|           |      |        |        |
++-----------------+----------+--------+-----------+------+--------+--------+
 
 Record of Temporary Revision
 ============================
@@ -31,8 +35,8 @@ Record of Temporary Revision
 |               |Issue|       |been       |Insert|Inserted|        |
 |               |     |       |Revised or |      |By      |        |
 |               |     |       |Removed    |      |        |        |
-+---------------+-----+-------+-----------+------+--------+--------+
-|               |     |       |           |      |        |        |
++===============+=====+=======+===========+======+========+========+
+| -none-        |     |       |           |      |        |        |
 +---------------+-----+-------+-----------+------+--------+--------+
 
 Detailed Revision
@@ -41,7 +45,7 @@ Detailed Revision
 Revison: Original
 Date: 01/03/2017
 
-| Page          Date            Revision Number
+| Page  	Date    	Revision Number
 | QAM Page-1	01/03/2017	Original
 | QAM Page-2	01/03/2017	Original
 | QAM Page-3	01/03/2017	Original
@@ -92,8 +96,84 @@ Date: 01/03/2017
 | QAM Page-48	01/03/2017	Original
 | QAM Page-49	01/03/2017	Original
 | QAM Page-50	01/03/2017	Original
+| QAM Page-51	01/03/2017	Original
+| QAM Page-52	01/03/2017	Original
+| QAM Page-53	01/03/2017	Original
+| QAM Page-54	01/03/2017	Original
+| QAM Page-55	01/03/2017	Original
+| QAM Page-56	01/03/2017	Original
+| QAM Page-57	01/03/2017	Original
+| QAM Page-58	01/03/2017	Original
+| QAM Page-59	01/03/2017	Original
+| QAM Page-60	01/03/2017	Original
+| QAM Page-61	01/03/2017	Original
+| QAM Page-62	01/03/2017	Original
+| QAM Page-63	01/03/2017	Original
+| QAM Page-64	01/03/2017	Original
+| QAM Page-65	01/03/2017	Original
+| QAM Page-66	01/03/2017	Original
+| QAM Page-67	01/03/2017	Original
+| QAM Page-68	01/03/2017	Original
+| QAM Page-69	01/03/2017	Original
+| QAM Page-70	01/03/2017	Original
+| QAM Page-71	01/03/2017	Original
+| QAM Page-72	01/03/2017	Original
+| QAM Page-73	01/03/2017	Original
+| QAM Page-74	01/03/2017	Original
+| QAM Page-75	01/03/2017	Original
+| QAM Page-76	01/03/2017	Original
+| QAM Page-77	01/03/2017	Original
+| QAM Page-78	01/03/2017	Original
+| QAM Page-79	01/03/2017	Original
+| QAM Page-80	01/03/2017	Original
+| QAM Page-81	01/03/2017	Original
+| QAM Page-82	01/03/2017	Original
+| QAM Page-83	01/03/2017	Original
+| QAM Page-84	01/03/2017	Original
+| QAM Page-85	01/03/2017	Original
+| QAM Page-86	01/03/2017	Original
+| QAM Page-87	01/03/2017	Original
+| QAM Page-88	01/03/2017	Original
+| QAM Page-89	01/03/2017	Original
+| QAM Page-90	01/03/2017	Original
+| QAM Page-91	01/03/2017	Original
+| QAM Page-92	01/03/2017	Original
+| QAM Page-93	01/03/2017	Original
+| QAM Page-94	01/03/2017	Original
+| QAM Page-95	01/03/2017	Original
+| QAM Page-96	01/03/2017	Original
+| QAM Page-97	01/03/2017	Original
+| QAM Page-98	01/03/2017	Original
+| QAM Page-99	01/03/2017	Original
+| QAM Page-100	01/03/2017	Original
+| QAM Page-101	01/03/2017	Original
+| QAM Page-102	01/03/2017	Original
+| QAM Page-103	01/03/2017	Original
+| QAM Page-104	01/03/2017	Original
+| QAM Page-105	01/03/2017	Original
+| QAM Page-106	01/03/2017	Original
+| QAM Page-107	01/03/2017	Original
+| QAM Page-108	01/03/2017	Original
+| QAM Page-109	01/03/2017	Original
+| QAM Page-110	01/03/2017	Original
+| QAM Page-111	01/03/2017	Original
+| QAM Page-112	01/03/2017	Original
+| QAM Page-113	01/03/2017	Original
+| QAM Page-114	01/03/2017	Original
+| QAM Page-115	01/03/2017	Original
+| QAM Page-116	01/03/2017	Original
+| QAM Page-117	01/03/2017	Original
+| QAM Page-118	01/03/2017	Original
+| QAM Page-119	01/03/2017	Original
+| QAM Page-120	01/03/2017	Original
+| QAM Page-121	01/03/2017	Original
+| QAM Page-122	01/03/2017	Original
+| QAM Page-123	01/03/2017	Original
+| QAM Page-124	01/03/2017	Original
 
 
+AC Aviation Quality Policy
+==========================
 
 Quality is one of our core business functions. We are committed to
 developing, implementing, maintaining and constantly improving quality
@@ -143,42 +223,58 @@ Our commitment is to:
        effective.
 
     10. Ensure that our contract service providers systems and
-       services that support our operations meet our quality standards.
+        services that support our operations meet our quality
+        standards.
+
 
 All levels of management and all employees are accountable for the
 delivery of this highest level of quality starting with AC Aviation
 Company Limited (DBA, Bangkok Jets) Accountable Manager.
 
-AC Aviation Company Limited (DBA, Bangkok Jets) Quality Assurance Manual Signature Page
----------------------------------------------------------------------------------------
+AC Aviation Quality Assurance Manual Signature Page
+===================================================
 
 
 Issue 00 Revision 00
 
 Date: 01/03/2017
 
-Approval / Acceptance No.:
+.. attention:: Original papaer copy maintain all signatures
 
-Head of Flight Operations Name:
-Signature:
+   Approval/Acceptance No.
 
-Head of Quality Name:
-Signature:
 
-Accountable Manager Name:
-Signature:
+   Head of Flight Operations Name:
+
+   Singatue:
+
+
+   Head of Quality Name:
+
+   Signature:
+
+
+   Accountable Manager Name:
+
+   Signature:
+
 
 CAAT Acceptance
----------------
+===============
 
-CAAT Approval referecene:
-Inspector Name:
-Signature:
+.. attention:: Original paper contains all signatures.
 
-Director Name:
-Signature:
+   CAAT Approval Reference No.
 
 
+   Inspector Name:
+
+   Signature:
+
+
+   Director Name:
+
+   Signature:
 
 Introduction
 ============
@@ -248,21 +344,22 @@ operations of civil aircraft for the purpose of the commercial air
 transportation as ACA’s principal place of business and offices are
 located at the following addresses.
 
-AC Aviation Company Limited
-  Tax ID: 0105553043254
-
-Main Offices Address:
-  Hangar No. 46
-  Viphavadee-Rangsit Rd.
-  Sanambin, Donmuang
-  Bangkok, 10210
-  Thailand
-
-Telephone:
-  +66(0)2-504-3598
-
-Facsimile:
-  +66(0)2-504-3597
++-------------------------------------------------------+
+|**AC Aviation Company Limited** *Tax ID: 0105553043254*|
+|                                                       |
+|                                                       |
++===============+======================+================+
+|Main           |Hangar No. 46,        |Telephone:      |
+|Business       |Viphavadee-Rangsit    |+66(0)2-504-3598|
+|Office         |Rd., Sanambin,        |Facsimile:      |
++---------------+Donmuang, Bangkok,    |+66(0)2-504-3597|
+|Aerodome       |10210 Thailand        |                |
+|Operation      |                      |                |
+|Office         |                      |                |
++---------------+                      |                |
+|Maintenance    |                      |                |
+|Office         |                      |                |
++---------------+----------------------+----------------+
 
 
 

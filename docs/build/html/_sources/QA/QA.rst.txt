@@ -1,6 +1,99 @@
-======================
-Quality Assurance (QA)
-======================
+==============================
+Quality Assurance Manual (QAM)
+==============================
+
+Record Revision
+===============
+
+The person incorporating the revision(s) into the manual shall
+complete the Record of Revisions page. The pages identified with a
+change bar are either replacement pages or new (original) issued
+pages. Remove corresponding old pages and replace or add new
+pages. Remove pages marked DELETED; there are no replacement pages for
+deleted pages.
+
++------------------+----------+-------+-----------+------+--------+--------+
+|Revision          |Date      |Page(s)|Explanation|Date  |Approved|Initials|
+|Number            |of        |Revised|of What has|of    |and     |        |
+|                  |Issue     |       |been       |Insert|Inserted|        |
+|                  |          |       |Revised or |      |By      |        |
+|                  |          |       |Removed    |      |        |        |
++------------------+----------+-------+-----------+------+--------+--------+
+|Origianl          |01/03/2017|       |           |      |        |        |
++------------------+----------+-------+-----------+------+--------+--------+
+
+Record of Temporary Revision
+============================
+
++----------+-----+-------+-----------+------+--------+--------+
+|Revision  |Date |Page(s)|Explanation|Date  |Approved|Initials|
+|Number    |of   |Revised|of What has|of    |and     |Original|
+|          |Issue|       |been       |Insert|Inserted|        |
+|          |     |       |Revised or |      |By      |        |
+|          |     |       |Removed    |      |        |        |
++----------+-----+-------+-----------+------+--------+--------+
+|          |     |       |           |      |        |        |
++----------+-----+-------+-----------+------+--------+--------+
+
+Detailed Revision
+=================
+
+Revison: Original
+Date: 01/03/2017
+
+| Page            Date            Revision Number
+| QAM Page-1	01/03/2017	Original
+| QAM Page-2	01/03/2017	Original
+| QAM Page-3	01/03/2017	Original
+| QAM Page-4	01/03/2017	Original
+| QAM Page-5	01/03/2017	Original
+| QAM Page-6	01/03/2017	Original
+| QAM Page-7	01/03/2017	Original
+| QAM Page-8	01/03/2017	Original
+| QAM Page-9	01/03/2017	Original
+| QAM Page-10	01/03/2017	Original
+| QAM Page-11	01/03/2017	Original
+| QAM Page-12	01/03/2017	Original
+| QAM Page-13	01/03/2017	Original
+| QAM Page-14	01/03/2017	Original
+| QAM Page-15	01/03/2017	Original
+| QAM Page-16	01/03/2017	Original
+| QAM Page-17	01/03/2017	Original
+| QAM Page-18	01/03/2017	Original
+| QAM Page-19	01/03/2017	Original
+| QAM Page-20	01/03/2017	Original
+| QAM Page-21	01/03/2017	Original
+| QAM Page-22	01/03/2017	Original
+| QAM Page-23	01/03/2017	Original
+| QAM Page-24	01/03/2017	Original
+| QAM Page-25	01/03/2017	Original
+| QAM Page-26	01/03/2017	Original
+| QAM Page-27	01/03/2017	Original
+| QAM Page-28	01/03/2017	Original
+| QAM Page-29	01/03/2017	Original
+| QAM Page-30	01/03/2017	Original
+| QAM Page-31	01/03/2017	Original
+| QAM Page-32	01/03/2017	Original
+| QAM Page-33	01/03/2017	Original
+| QAM Page-34	01/03/2017	Original
+| QAM Page-35	01/03/2017	Original
+| QAM Page-36	01/03/2017	Original
+| QAM Page-37	01/03/2017	Original
+| QAM Page-38	01/03/2017	Original
+| QAM Page-39	01/03/2017	Original
+| QAM Page-40	01/03/2017	Original
+| QAM Page-41	01/03/2017	Original
+| QAM Page-42	01/03/2017	Original
+| QAM Page-43	01/03/2017	Original
+| QAM Page-44	01/03/2017	Original
+| QAM Page-45	01/03/2017	Original
+| QAM Page-46	01/03/2017	Original
+| QAM Page-47	01/03/2017	Original
+| QAM Page-48	01/03/2017	Original
+| QAM Page-49	01/03/2017	Original
+| QAM Page-50	01/03/2017	Original
+
+
 
 Quality is one of our core business functions. We are committed to
 developing, implementing, maintaining and constantly improving quality

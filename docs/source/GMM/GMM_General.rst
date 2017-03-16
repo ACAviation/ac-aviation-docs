@@ -3,15 +3,21 @@ General
 
 Description of the Organisation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
- 
-AC Aviation management structure can be refered to the :ref:`Company Management Organisation Chart`.
 
-A Quality System is established which works independently and monitors all activities on the continuing airworthiness management system to ensure that it remains in conformity with the applicable requirements.
+AC Aviation management structure can be refered to the :ref:`Company
+Management Organisation Chart`.
 
-AC Aviation holds the privileges to manage the continuing airworthiness of aircraft as listed on the approval certificate.
+A Quality System is established which works independently and monitors
+all activities on the continuing airworthiness management system to
+ensure that it remains in conformity with the applicable requirements.
 
-The location of the office accommodations for the proper performance of the
-Continuing airworthiness management is on the East side of the airport.  Details map of the maintenance division is illustrated as shown below.
+AC Aviation holds the privileges to manage the continuing
+airworthiness of aircraft as listed on the approval certificate.
+
+The location of the office accommodations for the proper performance
+of the Continuing airworthiness management is on the East side of the
+airport.  Details map of the maintenance division is illustrated as
+shown below.
 
 .. figure:: /images/ACA_Hangar_Location.png
    :scale: 50 %
@@ -28,25 +34,36 @@ Certificates
    :align: center
 
    AC Aviation Air Operator Certificate
-   
 
 Aircrafts Under Management
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-AC Aviation holds the privileges to manage the continuing airworthiness of aircraft as listed on the approval certificate.
+AC Aviation holds the privileges to manage the continuing
+airworthiness of aircraft as listed on the approval certificate.
 
 The currently aircrafts operate in AC Aviation:
 
++-----+--------+------------+--------+
+|Item |Aircraft|Registration|Remark  |
+|     |Type    |            |        |
++=====+========+============+========+
+|1    |Beechjet|HS-ASC      |Removed |
+|     |400A    |            |from AOC|
+|     |        |            |in      |
+|     |        |            |December|
+|     |        |            |2016    |
++-----+--------+------------+--------+
+|2    |Beechjet|HS-BRM      |Removed |
+|     |400A    |            |from AOC|
+|     |        |            |in      |
+|     |        |            |Decmber |
+|     |        |            |2016    |
++-----+--------+------------+--------+
+|3    |Hawker  |HS-PEK      |Still in|
+|     |850XP   |            |AOC     |
++-----+--------+------------+--------+
 
-+-------+-------------------------+------------------------+
-| Item  | Aircraft Type           | Registration           |
-+=======+=========================+========================+
-| 1     | Beechjet 400A           | HS-ASC                 |
-+-------+-------------------------+------------------------+
-| 2     | Beechjet 400A           | HS-BRM                 |
-+-------+-------------------------+------------------------+
-| 3     | Hawker 850XP            | HS-PEK                 |
-+-------+-------------------------+------------------------+
+
 
 Scope of Work
 ^^^^^^^^^^^^^
