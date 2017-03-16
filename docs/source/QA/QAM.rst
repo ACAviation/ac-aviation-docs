@@ -12,28 +12,28 @@ pages. Remove corresponding old pages and replace or add new
 pages. Remove pages marked DELETED; there are no replacement pages for
 deleted pages.
 
-+------------------+----------+-------+-----------+------+--------+--------+
-|Revision          |Date      |Page(s)|Explanation|Date  |Approved|Initials|
-|Number            |of        |Revised|of What has|of    |and     |        |
-|                  |Issue     |       |been       |Insert|Inserted|        |
-|                  |          |       |Revised or |      |By      |        |
-|                  |          |       |Removed    |      |        |        |
-+------------------+----------+-------+-----------+------+--------+--------+
-|Origianl          |01/03/2017|       |           |      |        |        |
-+------------------+----------+-------+-----------+------+--------+--------+
++-----------------+----------+-------+-----------+------+--------+--------+
+|Revision Number  |Date      |Page(s)|Explanation|Date  |Approved|Initials|
+|                 |of        |Revised|of What has|of    |and     |        |
+|                 |Issue     |       |been       |Insert|Inserted|        |
+|                 |          |       |Revised or |      |By      |        |
+|                 |          |       |Removed    |      |        |        |
++-----------------+----------+-------+-----------+------+--------+--------+
+|Origianl         |01/03/2017|       |           |      |        |        |
++-----------------+----------+-------+-----------+------+--------+--------+
 
 Record of Temporary Revision
 ============================
 
-+----------+-----+-------+-----------+------+--------+--------+
-|Revision  |Date |Page(s)|Explanation|Date  |Approved|Initials|
-|Number    |of   |Revised|of What has|of    |and     |Original|
-|          |Issue|       |been       |Insert|Inserted|        |
-|          |     |       |Revised or |      |By      |        |
-|          |     |       |Removed    |      |        |        |
-+----------+-----+-------+-----------+------+--------+--------+
-|          |     |       |           |      |        |        |
-+----------+-----+-------+-----------+------+--------+--------+
++---------------+-----+-------+-----------+------+--------+--------+
+|Revision Number|Date |Page(s)|Explanation|Date  |Approved|Initials|
+|               |of   |Revised|of What has|of    |and     |Original|
+|               |Issue|       |been       |Insert|Inserted|        |
+|               |     |       |Revised or |      |By      |        |
+|               |     |       |Removed    |      |        |        |
++---------------+-----+-------+-----------+------+--------+--------+
+|               |     |       |           |      |        |        |
++---------------+-----+-------+-----------+------+--------+--------+
 
 Detailed Revision
 =================
@@ -41,7 +41,7 @@ Detailed Revision
 Revison: Original
 Date: 01/03/2017
 
-| Page            Date            Revision Number
+| Page          Date            Revision Number
 | QAM Page-1	01/03/2017	Original
 | QAM Page-2	01/03/2017	Original
 | QAM Page-3	01/03/2017	Original
