@@ -8,7 +8,7 @@ Quality Assurance Manual (QAM)
 ==============================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    Record_Revision
    List_of_Effective_Pages
