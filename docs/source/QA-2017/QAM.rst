@@ -31,6 +31,6 @@ Quality Assurance Manual (QAM)
    Contract_Service_Providers
    Audits_and_Inspections
    Inspections
-   ACA_QAS_Compliance_Monitoring_Training
+   ACA_QAS_Compliance_Monitoring_training
    Record_Keeping
    Sample_Forms
