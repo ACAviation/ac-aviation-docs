@@ -4,7 +4,7 @@
            :align: center
 
 ===========================================================================
- Distribution systems of Quality Assurance Manual Amendments and Revisions
+ Distribution Systems of Quality Assurance Manual Amendments and Revisions
 ===========================================================================
 
 ACA shall provide a QAM for the use and guidance to the following
@@ -48,6 +48,7 @@ personnel:
 |           |10++   |         |
 +-----------+-------+---------+
 
+.. attention:: Signatures contained in the paper copy.
 
 .. Note:: Each Nominated Person is responsible for the distribution of
           copies of the QAM to their subordinates as appropriate.

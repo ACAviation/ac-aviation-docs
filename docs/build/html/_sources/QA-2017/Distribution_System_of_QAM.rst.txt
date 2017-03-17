@@ -48,6 +48,7 @@ personnel:
 |           |10++   |         |
 +-----------+-------+---------+
 
+.. attention:: Signatures contained in the paper copy.
 
 .. Note:: Each Nominated Person is responsible for the distribution of
           copies of the QAM to their subordinates as appropriate.
