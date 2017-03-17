@@ -468,3 +468,320 @@ Item  Appraisal Topics                                                          
 
 .. Note:: The list of assessment is not exhaustive, and is subject of
           continually improvement and revision.
+
+Head of Safety
+==============
+
+The Head of Safety shall have a sound familiarity with ACA's QAS.  The
+Head of Safety works closely with the Quality Manger to ensure that
+the SMS and QAS are both in agreement and overlap to ensure both
+safety and quality.
+
+Reports to the Accountable Manager
+
+Responsibilities
+----------------
+
+The Head of Safety responsibilities and duties include the following,
+but are not limited to:
+
+* Works closely with the Head of Quality to ensure that the QAM
+  processes, policies and procedures are compliant;
+* Works closely with the Head of Quality to review and analyze all
+  Non-Compliant Reports, Form QAS-1;
+* Works closely with the Head of Quality to review and analyze all data
+  gathered during all audits or inspections;
+* Attends all Quality Assurance Committee meetings.
+
+Relationships
+-------------
+
+Liaise with other management personnel, department managers and
+contract service providers in their area of responsibility.
+
+Head of Flight Operations
+=========================
+
+The Head of Flight Operations shall have a sound familiarity with
+ACA's QAS. The Head of Flight Operations shall ensure that ACA's
+quality polices are followed by all ACA flight operations employees.
+
+Reports to the Head of Quality
+
+Responsibilities
+----------------
+
+The Head of Flight Operations duties and responsibilities include the
+following, but are not limited to:
+
+* The Head of Flight Operations will act as Secretary of the Quality
+  Assurance Committee Meetings;
+* Attending all ACA Quality Assurance Committee meetings;
+* Assists in the continuous improvement of the quality concern
+  identification and assessment processes and the organization's QAS.
+* The Head of Flight Operations may delegate any duties to a qualified
+  person but still remains responsible for the delegated task.
+
+Relationships
+-------------
+
+Liaise with the overseeing authority, department managers and
+department's supervisors in their assigned area of responsibility.
+
+Head of Flight Training
+=======================
+
+The Head of Flight Training shall have a sound familiarity with ACA's
+QAS. The Head of Flight Training shall ensure that ACA's quality
+polices are followed by all ACA instructors, examiners and all
+contract training partners that provide ACA with training services.
+
+Reports to the Head of Quality
+
+Responsibilities
+----------------
+
+The Head of Flight Training responsibilities and duties include the
+following, but are not limited to:
+
+* Provides information to the HOQ regarding quality issues regarding
+  ACAs Flight Crew training operations and programs;
+* Assists in the continuous improvement of ACA's QAS;
+* Submits a Non Compliance Report, Form QAS-1 or a Suggestion Form when
+  a non-compliance has been identified in the work environment, have
+  observed an unsafe practices or unsafe work conditions.
+* Attending all ACA Quality Assurance Committee meetings, (as practical
+  and if not assigned to flight duty and away from home base).
+
+Relationships
+-------------
+
+Liaise with other management personnel, department managers and
+contract service providers in their area of responsibility.
+
+Head of Engineering
+===================
+
+The Head of Engineering shall have a sound familiarity with ACA's
+QAS. The Head of Engineering shall ensure that ACA's quality polices
+are followed by all ACA maintenance employees and all contract service
+providers that provide ACA with maintenance services.
+
+Reports to the Head of Quality
+
+Responsibilities
+----------------
+
+The Head of Engineering responsibilities and duties include the
+following, but are not limited to:
+
+* Provides information to the HOQ regarding quality issues regarding
+  ACAs maintenance operations;
+* Assists in the continuous improvement of ACA's QAS;
+* Submits a Non Compliance Report, Form QAS-1 or a Suggestion Form when
+  a non-compliance has been identified in the work environment, have
+  observed an unsafe practices or unsafe work conditions.
+* Attending all ACA Quality Assurance Committee Meetings, (as practical
+  and if not assigned to flight duty and away from home base).
+
+The Head of Engineering may delegate any duties to a qualified person
+but still remains responsible for the delegated task.
+
+Relationships
+-------------
+
+Liaise with other management personnel, department managers and
+contract service providers in their area of responsibility.
+
+Head of Ground Training
+=======================
+
+The Head of Ground Training shall have a sound familiarity with ACA's
+QAS. The Head of Ground Training shall ensure that ACA's quality
+polices are followed by all ACA ground operations employees and all
+contract service providers that provide ACA with ground support
+services.
+
+Reports to the Head of Quality
+
+Responsibilities
+----------------
+
+The Head of Ground Training responsibilities and duties include the
+following, but are not limited to:
+
+* Provides information to the HOQ regarding quality issues regarding
+  ACAs ground operations;
+* Submits a Non Compliance Report, Form QAS-1 or a Suggestion Form when
+  a non-compliance has been identified in the work environment, have
+  observed an unsafe practices or unsafe work conditions.
+* Assists in the continuous improvement of ACA's QAS.
+
+The Head of Ground Training may delegate any duties to a qualified
+person but still remains responsible for the delegated task.
+
+Relationships
+-------------
+
+Liaise with other management personnel, department managers and
+contract service providers in their area of responsibility.
+
+Chief Pilot
+===========
+
+The Chief Pilot shall have a sound familiarity with ACA's QAS. The
+Chief Pilot shall ensure that ACA's quality polices are followed by
+all ACA Flight Crews.
+
+Reports to the Head of Flight Operations
+
+Responsibilities
+----------------
+
+The Chief Pilot responsibilities and duties include the following, but
+are not limited to:
+
+* Provides information to the HOQ regarding quality issues regarding
+  ACAs flight operations and Flight Crews;
+* Assists in the continuous improvement of ACA's QAS;
+* Submits a Non Compliance Report, Form QAS-1 or a Suggestion Form when
+  a non-compliance has been identified in the work environment, have
+  observed an unsafe practices or unsafe work conditions.
+* Attending all ACA Quality Assurance Committee meetings.
+
+The Chief Pilot may delegate any duties to a qualified person but
+still remains responsible for the delegated task.
+
+Relationships
+-------------
+
+Liaise with other management personnel, department managers and
+contract service providers in their area of responsibility.
+
+
+Pilot-in-Command
+================
+
+Pilot-in-Commands shall have a sound familiarity with ACA's
+QAS. Pilot-in-Commands shall ensure that ACA's ground and flight
+operations quality polices are followed by all Flight Crew Members
+when acting as Pilot-in-Command.
+
+Reports to the Chief Pilot
+
+Responsibilities
+----------------
+
+Pilot-in-Command's responsibilities and duties include the following,
+but are not limited to:
+
+* Provides information regarding quality issues to the organization's
+  Flight Crew Members, In-flight Service Representative and contract
+  service providers when away from home base and or as required;
+* Assists in the continuous improvement of ACA's QAS;
+* Promotes an organizational culture that fosters exemplary safety
+  practices through effective leadership;
+* Attending ACA Quality Assurance Committee meetings when requested.
+* Submits a Non Compliance Report, Form QAS-1 or a Suggestion Form when
+  a non-compliance has been identified in the work environment, have
+  observed an unsafe practices or unsafe work conditions.
+
+Co-pilot
+========
+
+Co-pilots shall have a sound familiarity with ACA's QAS. Co-pilots
+shall follow all ACA ground and flight operations quality policies
+when acting as Co-pilot.
+
+Reports to the Pilot-in-Command.
+
+Responsibilities
+----------------
+
+Co-pilots responsibilities and duties include the following, but are
+not limited to:
+
+* Provides information regarding quality issues to the organization's
+  Flight Crew Members, In-Flight Service Representatives and contract
+  service providers when away from home base and or as required;
+* Assists in the continuous improvement of ACA's QAS;
+* Attending ACA Quality Assurance Committee meetings when requested.
+* Submits a Non Compliance Report, Form QAS-1 or a Suggestion Form when
+  a non-compliance has been identified in the work environment, have
+  observed an unsafe practices or unsafe work conditions.
+
+Dispatch
+========
+
+The Dispatch shall have a sound familiarity with ACA's QAS. The
+Dispatch shall ensure that ACA's quality polices are followed by all
+ACA Dispatch employees when dispatching a flight.
+
+Reports to the Chief Pilot
+
+Responsibilities
+----------------
+
+The Dispatch responsibilities and duties include the following, but
+are not limited to:
+
+* Provides information to the HOQ regarding quality issues regarding
+  ACAs flight operations and Flight Crews;
+* Assists in the continuous improvement of ACA's QAS;
+* Submits a Non Compliance Report, Form QAS-1 or a Suggestion Form when
+  a non-compliance has been identified in the work environment, have
+  observed an unsafe practices or unsafe work conditions.
+* Attending all ACA Quality Assurance Committee meetings.
+
+The Dispatch may delegate any duties to a qualified person but still
+remains responsible for the delegated task.
+
+Relationships
+-------------
+
+Liaise with other management personnel, department managers and
+contract service providers in their area of responsibility.
+
+In-Flight Service Representatives
+=================================
+
+In-Flight Service Representatives shall have a sound familiarity with
+ACA's QAS. In-Flight Service Representatives shall ensure that ACA's
+quality polices are followed when acting as an In-Flight Service
+Representative.
+
+Reports to Chief Pilot
+
+Responsibilities
+----------------
+
+In-Flight Service Representatives responsibilities and duties include
+the following, but are not limited to:
+
+* Assists in the continuous improvement of ACA's QAS;
+* Submits a Non Compliance Report, Form QAS-1 or a Suggestion Form when
+  a non-compliance has been identified in the work environment, have
+  observed an unsafe practices or unsafe work conditions.
+* Attending ACA Quality Assurance Committee meetings when requested.
+
+Relationships
+-------------
+
+Liaise with other management personnel, department managers and
+contract service providers in their area of responsibility.
+
+ACA Personnel
+=============
+
+It is the duty of all ACA employees to ensure that all activities and
+procedures are conducted in accordance with ACA's quality policies and
+procedures.
+
+Report to their immediate department supervisor
+
+It is the duty and responsibility of all ACA employees to:
+
+* Assists in the continuous improvement of ACA's QAS;
+* Attending ACA Quality Assurance Committee meetings when requested.
+* Submits Non-compliance Report(s), Form QAS-1 or Suggestion Form(s)
+  when observing areas of Non-compliance.
