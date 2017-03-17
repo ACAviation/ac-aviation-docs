@@ -23,3 +23,9 @@ immediate supervisor or file a non punitive written report
 
 Identifying non-compliant areas is an important step in preserving
 ACAs well being and can also help prevent accidents or incidents.
+
+Compliance Monitoring Subject Guide
+===================================
+
+Note: the following compliance monitoring subject guide may also be
+used for guidance for audits and inspections.
