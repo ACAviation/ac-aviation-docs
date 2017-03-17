@@ -77,7 +77,7 @@ Manuals
    AMP/AMP
    WI/WI
    OM/OM
-   QA/QAM
+   QA-2017/QAM
 
 Aircraft Technical Publication
 ==============================

@@ -1,0 +1,66 @@
+.. image:: /images/AC_Aviation_Logo.jpg
+           :scale: 100 %
+           :alt: AC Aviation Logo
+           :align: center
+
+===========================================================================
+ Distribution systems of Quality Assurance Manual Amendments and Revisions
+===========================================================================
+
+ACA shall provide a QAM for the use and guidance to the following
+personnel:
+
++-----------+-------+---------+
+|Title      |Control|Signature|
+|           |Number |         |
++===========+=======+=========+
+|Accountable|01     |         |
+|Manager /  |       |         |
+|CEO        |       |         |
++-----------+-------+---------+
+|Head of    |02     |         |
+|Flight     |       |         |
+|Operations |       |         |
++-----------+-------+---------+
+|Head of    |03     |         |
+|Quality    |       |         |
++-----------+-------+---------+
+|Head of    |04     |         |
+|Safety     |       |         |
++-----------+-------+---------+
+|Head of    |05     |         |
+|Flight     |       |         |
+|Training   |       |         |
++-----------+-------+---------+
+|Head of    |06     |         |
+|Engineering|       |         |
++-----------+-------+---------+
+|Head of    |07     |         |
+|Ground     |       |         |
+|Training   |       |         |
++-----------+-------+---------+
+|Security   |08     |         |
+|Manager    |       |         |
++-----------+-------+---------+
+|CAAT       |09     |         |
+|Officers   |       |         |
++-----------+-------+---------+
+|           |10++   |         |
++-----------+-------+---------+
+
+
+.. Note:: Each Nominated Person is responsible for the distribution of
+          copies of the QAM to their subordinates as appropriate.
+
+The Head of Flight Operations and the Head of Quality will maintain an
+up-to-date list of distributed QAM, together with copy numbers and
+locations or the name or title of the manual holder. It is the
+responsibility of the Head of Quality that sufficient additional
+copies of the QAM are provided to ACA staff to ensure that all
+personnel have ready access to the Quality Assurance Manual when
+required.
+
+ACA personnel, who hold a copy of this manual are responsible for and
+shall ensure that all revisions are incorporated, recorded. ACA
+personnel who are issued with a Quality Assurance Manual will make the
+manual available for inspection when requested.
