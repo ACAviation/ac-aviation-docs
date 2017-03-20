@@ -88,7 +88,61 @@ Sample Audit or Inspection Form, QAS-3
            :alt: QAS-3-6_QAS_Audit_or_Inspection_Form
            :align: center
 
+Sample Audit or Inspection Report, QAS-4
+========================================
+
 .. image:: /images/QAM/QAS-4-1_QAS_Audit_or_Inspection_Report.png
            :scale: 50%
            :alt: QAS-4-1_QAS_Audit_or_Inspection_Report
            :align: center
+
+.. image:: /images/QAM/QAS-4-2_QAS_Audit_or_Inpsection_report.png
+           :scale: 50%
+           :alt: QAS-4-2_QAS_Audit_or_Inpsection_report
+           :align: center
+
+.. image:: /images/QAM/QAS-4-3_QAS_Audit_or_Inspection_Report.png
+           :scale: 50%
+           :alt: QAS-4-3_QAS_Audit_or_Inspection_Report
+           :align: center
+
+.. image:: /images/QAM/QAS-4-4_QAS_Audit_or_Inpsection_Report.png
+           :scale: 50%
+           :alt: QAS-4-4_QAS_Audit_or_Inpsection_Report
+           :align: center
+
+Quality Assurance Committee Meeting Record, QAS-5
+=================================================
+
+.. image:: /images/QAM/QAS-5-1_QAS_Committee_Record.png
+           :scale: 50%
+           :alt: QAS-5-1_QAS_Committee_Record
+           :align: center
+
+.. image:: /images/QAM/QAS-5-2_QAS_Committee_Record.png
+           :scale: 50%
+           :alt: QAS-5-2_QAS_Committee_Record
+           :align: center
+
+.. image:: /images/QAM/QAS-5-3_QAS_Committee_Record.png
+           :scale: 50%
+           :alt: QAS-5-3_QAS_Committee_Record
+           :align: center
+
+.. image:: /images/QAM/QAS-5-4_QAS_Commitee_Record.png
+           :scale: 50%
+           :alt: QAS-5-4_QAS_Commitee_Record
+           :align: center
+
+.. image:: /images/QAM/QAS-5-5_QAS_Commitee_Record.png
+           :scale: 50%
+           :alt: QAS-5-5_QAS_Commitee_Record
+           :align: center
+
+.. image:: /images/QAM/QAS-5-6_QAS_Commitee_Record.png
+           :scale: 50%
+           :alt: QAS-5-6_QAS_Commitee_Record
+           :align: center
+
+Sample Contract Service Provider Quality Audit, Form QAS-6
+==========================================================
