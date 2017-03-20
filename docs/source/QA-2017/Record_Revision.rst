@@ -14,29 +14,18 @@ pages. Remove corresponding old pages and replace or add new
 pages. Remove pages marked DELETED; there are no replacement pages for
 deleted pages.
 
-+-----------------+----------+--------+-----------+------+--------+--------+
-|Revision Number  |Date      |Page(s) |Explanation|Date  |Approved|Initials|
-|                 |of        |Revised |of What has|of    |and     |        |
-|                 |Issue     |        |been       |Insert|Inserted|        |
-|                 |          |        |Revised or |      |By      |        |
-|                 |          |        |Removed    |      |        |        |
-+=================+==========+========+===========+======+========+========+
-|Original         |01/03/2017|Details |           |      |        |        |
-|                 |          |follow  |           |      |        |        |
-|                 |          |in the  |           |      |        |        |
-|                 |          |next    |           |      |        |        |
-|                 |          |section.|           |      |        |        |
-+-----------------+----------+--------+-----------+------+--------+--------+
+=============== =============== ==================== =============================================== =============== ========================= ===============
+Revision Number Date of Issue   Page Revised         Explanation of waht has been revised or removed Date of Insert  Approved and Inserted by  Initils
+=============== =============== ==================== =============================================== =============== ========================= ===============
+Original        01/03/2017	Details next section
+=============== =============== ==================== =============================================== =============== ========================= ===============
+
 
 Record of Temporary Revision
 ============================
 
-+---------------+-----+-------+-----------+------+--------+--------+
-|Revision Number|Date |Page(s)|Explanation|Date  |Approved|Initials|
-|               |of   |Revised|of What has|of    |and     |Original|
-|               |Issue|       |been       |Insert|Inserted|        |
-|               |     |       |Revised or |      |By      |        |
-|               |     |       |Removed    |      |        |        |
-+===============+=====+=======+===========+======+========+========+
-| -none-        |     |       |           |      |        |        |
-+---------------+-----+-------+-----------+------+--------+--------+
+=============== =============== ==================== =============================================== =============== ========================= ===============
+Revision Number Date of Issue   Page Revised         Explanation of waht has been revised or removed Date of Insert  Approved and Inserted by  Initils
+=============== =============== ==================== =============================================== =============== ========================= ===============
+--None--        --None--
+=============== =============== ==================== =============================================== =============== ========================= ===============
