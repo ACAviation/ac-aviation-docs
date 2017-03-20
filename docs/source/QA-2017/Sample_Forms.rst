@@ -6,3 +6,89 @@
 ==============
  Sample Forms
 ==============
+
+Sample Quality Audit Schedule
+=============================
+
+.. image:: /images/QAM/QAS_Audit_Schedule_Form.png
+           :scale: 50%
+           :alt: QAS_Audit_Schedule_Form
+           :align: center
+
+Non-compliance Report Sample Form QAS-1
+=======================================
+
+.. image:: /images/QAM/QAS-1_Non-Compliance_Report_Form.png
+           :scale: 50%
+           :alt: QAS-1_Non-Compliance_Report_Form
+           :align: center
+
+Sample Audit or Inspection Checklist, Form QAS-2
+================================================
+
+.. image:: /images/QAM/QAS-2-1_QAS_Audit_or_Inspection_Checklist.png
+           :scale: 50%
+           :alt: QAS-2-1_QAS_Audit_or_Inspection_Checklist
+           :align: center
+
+.. image:: /images/QAM/QAS-2-2_QAS_Audit_or_Inspection_Checklist.png
+           :scale: 50%
+           :alt: QAS-2-2_QAS_Audit_or_Inspection_Checklist
+           :align: center
+
+.. image:: /images/QAM/QAS-2-3_QAS_Audit_or_Inspection_Checklist.png
+           :scale: 50%
+           :alt: QAS-2-3_QAS_Audit_or_Inspection_Checklist
+           :align: center
+
+.. image:: /images/QAM/QAS-2-4_QAS_Audit_or_Inspection_Checklist.png
+           :scale: 50%
+           :alt: QAS-2-4_QAS_Audit_or_Inspection_Checklist
+           :align: center
+
+.. note:: Auditors or Inspectors are to complete the checklist and
+          submit the checklists to Head od Qulaity for approval before
+          conduting the audits ro inspections.
+
+Sample Audit or Inspection Form, QAS-3
+======================================
+
+.. image:: /images/QAM/QAS-3-1_QAS_Audit_or_Inspection_Form.png
+           :scale: 50%
+           :alt: QAS-3-1_QAS_Audit_or_Inspection_Form
+           :align: center
+
+.. note:: Use a separate sheet of paper to expand on discrepancies.
+
+.. important:: Keep all Checklists, Audit or Inspection forms together
+               and return them to the Head of Quality.
+
+.. image:: /images/QAM/QAS-3-2_Audit_or_Inspection_Form.png
+           :scale: 50%
+           :alt: QAS-3-2_Audit_or_Inspection_Form
+           :align: center
+
+.. image:: /images/QAM/QAS-3-3_QAS_Audit_or_Inpsection_Form.png
+           :scale: 50%
+           :alt: QAS-3-3_QAS_Audit_or_Inpsection_Form
+           :align: center
+
+.. image:: /images/QAM/QAS-3-4_QAS_Audit_or_Inspection_Form.png
+           :scale: 50%
+           :alt: QAS-3-4_QAS_Audit_or_Inspection_Form
+           :align: center
+
+.. image:: /images/QAM/QAS-3-5_QAS_Audit_or_Inspection_Form.png
+           :scale: 50%
+           :alt: QAS-3-5_QAS_Audit_or_Inspection_Form
+           :align: center
+
+.. image:: /images/QAM/QAS-3-6_QAS_Audit_or_Inspection_Form.png
+           :scale: 50%
+           :alt: QAS-3-6_QAS_Audit_or_Inspection_Form
+           :align: center
+
+.. image:: /images/QAM/QAS-4-1_QAS_Audit_or_Inspection_Report.png
+           :scale: 50%
+           :alt: QAS-4-1_QAS_Audit_or_Inspection_Report
+           :align: center
