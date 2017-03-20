@@ -13,7 +13,7 @@ Date: 01/03/2017
 =============== =============== ===============
 Page	        Date	        Revision Number
 =============== =============== ===============
-ิิQAM Page-1	01/03/2017	Original
+QAM Page-1	01/03/2017	Original
 QAM Page-2	01/03/2017	Original
 QAM Page-3	01/03/2017	Original
 QAM Page-4	01/03/2017	Original

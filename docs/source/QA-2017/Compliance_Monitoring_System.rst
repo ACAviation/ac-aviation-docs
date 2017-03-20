@@ -168,3 +168,19 @@ The Head of Quality will maintain a folder for each month's
 Non-compliance Reports, Form QAS-1, and quality related Suggestion
 Forms. At the end of the month, the month's folder will be filed in
 chronological order for the year.
+
+Estimate Concerns or Non-Compliance Severity
+============================================
+
+.. image:: /images/QAM/Estimate_Concern_or_Non-Compliance_Severity.png
+           :scale: 45%
+           :alt: Estimate_Concern_or_Non-Compliance_Severity
+           :align: center
+
+Sample Non-compliance Concerns and Reduction via Corrective Actions
+===================================================================
+
+.. image:: /images/QAM/Sample_Non-Compliance_Concerns_and_Reduction_via_Corrective_Actions.png
+           :scale: 50%
+           :alt: Sample_Non-Compliance_Concerns_and_Reduction_via_Corrective_Actions
+           :align: center
