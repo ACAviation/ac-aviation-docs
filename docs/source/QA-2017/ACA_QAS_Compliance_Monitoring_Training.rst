@@ -4,28 +4,60 @@
            :align: center
 
 ================================================
- AC Aviation QAS Compliance Monitoring Training
+ACA QAS Compliance Monitoring Training
 ================================================
 
-ACA's compliance monitoring program involves the evaluation of our
-processes, policies or procedures to ensure compliance with applicable
-rules and regulations of CAAT, State and local laws.  This will be
-accomplished by incorporating compliance monitoring when conducting
-quality audits and inspections of ACA departments and ACA's contract
-service providers.
+The Head of Quality is to attend or have attended and satisfactorily
+completed an approved course provided by an external training
+organization specializing in Compliance Monitoring for Commercial Air
+Operators.
 
-ACA’s compliance monitoring also involves daily compliance monitoring
-by all ACA employees. All operational employees are encouraged to
-perform daily compliance monitoring in their assigned duties. If an
-employee discovers a non-compliant area they should inform their
-immediate supervisor or file a non punitive written report
-(Non-compliance Report QAS-1 or a Suggestion Form).
+The Head of Quality will be responsible for training Auditors and
+Inspectors as required in line with procedures in this
+section. Auditors and Inspectors must be considered proficient before
+being released to active service in the audit area.
 
-Identifying non-compliant areas is an important step in preserving
-ACAs well being and can also help prevent accidents or incidents.
+All personnel are to receive training on ACA’s QAS during their
+Initial New Hire Training Course. The employees training records will
+reflect that the employee has completed the Quality Assurance System
+Training Modules.
 
-Compliance Monitoring Subject Guide
-===================================
+Initial Training for Auditors and Inspectors
+============================================
 
-Note: the following compliance monitoring subject guide may also be
-used for guidance for audits and inspections.
+.. Note:: Recurrent training is required every 12 calendar months.
+
+.. image:: /images/QAM/Auditor_Inspector_Training.png
+           :scale: 50%
+           :alt: Auditor_Inspector_Training
+           :align: center
+
+Recurrent Training for Auditors and Inspectors
+==============================================
+
+.. Note:: Recurrent training is required every 12 calendar months.
+
+.. image:: /images/QAM/Auditor_Inspector_Recurrent_Training.png
+           :scale: 50%
+           :alt: Auditor_Inspector_Recurrent_Training
+           :align: center
+
+Initial Quality Assurance System Training Syllabus / All Employees
+==================================================================
+
+.. Note:: Recurrent training is required every 12 calendar months.
+
+.. image:: /images/QAM/Inital_QAS_Training_Syllabus_All_Employees.png
+           :scale: 50%
+           :alt: Inital_QAS_Training_Syllabus_All_Employees
+           :align: center
+
+Recurrent Quality Assurance System Training Syllabus / All Employees
+====================================================================
+
+.. Note:: Recurrent training is required every 12 calendar months.
+
+.. image:: /images/QAM/Recurrent_QAS_Training_Syllabus_All_Employees.png
+           :scale: 50%
+           :alt: Recurrent_QAS_Training_Syllabus_All_Employees
+           :align: center
