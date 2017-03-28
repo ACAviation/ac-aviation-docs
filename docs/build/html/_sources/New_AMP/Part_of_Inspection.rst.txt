@@ -64,9 +64,111 @@ List of Illustrations
 
     Figure 2 - Recommended Walk-Around Sequence Airplanes With Winglets
 
+Preamble
+--------
+
+The PRE-FLIGHT CHECKS supersede and replace the PRE-FLIGHT INSPECTION
+which was previously listed in the Hawker 800XP AIRCRAFT FLEXIBLE
+MAINTENANCE SCHEDULE.
+
+It is the responsibility of the Flight Crew and Pilot-in-Command to
+ensure the items contained within are accomplished before flight. The
+Flight Crew or appropriately rated maintenance personnel may
+accomplish all items. It is recommended that these pages be
+photocopied and used as a check-off sheet prior to each flight.
+
+.. NOTE:: Requirements marked with(preceding the check) need only be
+          completed once daily, before the first flight.
+
+.. NOTE:: These checks should be done prior to and in conjunction with
+          the External Checks and Internal Checks listed in the Normal
+          Procedures section of Approved Airplane Flight Manual.
+
+.. NOTE:: Refer to Figure 1 or Figure 2 (as applicable) — Recommended
+          Walk-Around Sequence.
+
+.. image:: /images/AMP/Pre-Flight_Checks_General.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_General
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Left_Nose_and_Fulselage.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Left_Nose_and_Fulselage
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Cheks_Landing_Gear_and_Bay.png
+           :scale: 50%
+           :alt: Pre-Flight_Cheks_Landing_Gear_and_Bay
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Right_Nose_and_Fulselage.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Right_Nose_and_Fulselage
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Right_Wing.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Right_Wing
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Right_Main_Landing_Gear.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Right_Main_Landing_Gear
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Right_Main_Landing_Gear_Continued.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Right_Main_Landing_Gear_Continued
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Right_Engine_and_Nossle.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Right_Engine_and_Nossle
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Aft_Fulselage_Right_Side.png
+           :scale: 50%
+           :alt: Pre-Flight_Aft_Fulselage_Right_Side
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Empennage_Tail_Section.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Empennage_Tail_Section
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Aft_Fulselage_Elft_side.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Aft_Fulselage_Elft_side
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Rear_Equipment_Bay.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Rear_Equipment_Bay
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Rear_Equipment_Bay_Continued.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Rear_Equipment_Bay_Continued
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Left_Engine_and_Nossle.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Left_Engine_and_Nossle
+           :align: center
+
+
+
 .. image:: /images/AMP/Recommended_Walk_Around_Sequence_Airplane_Without_Winglets.png
            :scale: 50%
            :alt: Recommended_Walk_Around_Sequence_Airplane_Without_Winglets
            :align: center
 
 Figure 1: Recommended Walk-Around Sequence Airplane Without Winglets
+
+.. image:: /images/AMP/Recommended_Walk_Around_Sequence_Airplane_With_Winglets.png
+           :scale: 50%
+           :alt: Recommended_Walk_Around_Sequence_Airplane_With_Winglets
+           :align: center
+
+Figure 2: Recommended Walk-Around Sequence Airplane With Winglets
