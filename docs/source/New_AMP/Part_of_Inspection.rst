@@ -157,6 +157,40 @@ photocopied and used as a check-off sheet prior to each flight.
            :alt: Pre-Flight_Checks_Left_Engine_and_Nossle
            :align: center
 
+.. image:: /images/AMP/Pre-Flight_Checks_Left_Main_Landing_Gear_and_Center_Keel.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Left_Main_Landing_Gear_and_Center_Keel
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Left_Main_Landing_Gear_and_Center_Keel_Continued.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Left_Main_Landing_Gear_and_Center_Keel_Continued
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Left_Wing.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Left_Wing
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Left_Wing_Continued.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Left_Wing_Continued
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Flight_Compartment.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Flight_Compartment
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Vestibule_Pax_Cabin_and_Toilet_Compartment.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Vestibule_Pax_Cabin_and_Toilet_Compartment
+           :align: center
+
+.. image:: /images/AMP/Pre-Flight_Checks_Final_Items.png
+           :scale: 50%
+           :alt: Pre-Flight_Checks_Final_Items
+           :align: center
 
 
 .. image:: /images/AMP/Recommended_Walk_Around_Sequence_Airplane_Without_Winglets.png
