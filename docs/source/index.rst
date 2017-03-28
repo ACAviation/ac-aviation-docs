@@ -75,6 +75,7 @@ Manuals
 
    GMM/GMM
    AMP/AMP
+   New_AMP/New_AMP
    WI/WI
    OM/OM
    QA-2017/QAM
