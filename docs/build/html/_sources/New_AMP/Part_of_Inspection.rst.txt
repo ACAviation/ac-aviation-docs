@@ -122,9 +122,9 @@ photocopied and used as a check-off sheet prior to each flight.
            :alt: Pre-Flight_Checks_Right_Main_Landing_Gear_Continued
            :align: center
 
-.. image:: /images/AMP/Pre-Flight_Checks_Right_Engine_and_Nossle.png
+.. image:: /images/AMP/Pre-Flight_Checks_Right_Engine_and_Nacelle.png
            :scale: 50%
-           :alt: Pre-Flight_Checks_Right_Engine_and_Nossle
+           :alt: Pre-Flight_Checks_Right_Engine_and_Nacelle
            :align: center
 
 .. image:: /images/AMP/Pre-Flight_Aft_Fulselage_Right_Side.png
@@ -152,9 +152,9 @@ photocopied and used as a check-off sheet prior to each flight.
            :alt: Pre-Flight_Checks_Rear_Equipment_Bay_Continued
            :align: center
 
-.. image:: /images/AMP/Pre-Flight_Checks_Left_Engine_and_Nossle.png
+.. image:: /images/AMP/Pre-Flight_Checks_Left_Engine_and_Nacelle.png
            :scale: 50%
-           :alt: Pre-Flight_Checks_Left_Engine_and_Nossle
+           :alt: Pre-Flight_Checks_Left_Engine_and_Nacelle
            :align: center
 
 .. image:: /images/AMP/Pre-Flight_Checks_Left_Main_Landing_Gear_and_Center_Keel.png
