@@ -93,7 +93,11 @@ day.
            :alt: Post-Flight_Recommended_Walk_Around_Sequence_Airplane_Without_Winglets
            :align: center
 
+Figure 1: Post Flight Checkes--Recommended Walk-Around Sequnece without Winglets
+
 .. image:: /images/AMP/Post-Flight_Checks_Recommended_Walk_Around_Sequence_Airplane_With_Winglets.png
            :scale: 50%
            :alt: Post-Flight_Checks_Recommended_Walk_Around_Sequence_Airplane_With_Winglets
            :align: center
+
+Figure 2: Post Flight Checkes--Recommended Walk-Around Sequnece with Winglets

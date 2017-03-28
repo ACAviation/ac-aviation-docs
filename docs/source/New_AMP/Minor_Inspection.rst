@@ -189,11 +189,11 @@ photocopied and used as a check-off sheet prior to each flight.
            :alt: Recommended_Walk_Around_Sequence_Airplane_Without_Winglets
            :align: center
 
-Figure 1: Recommended Walk-Around Sequence Airplane Without Winglets
+Figure 1: Pre-Flight Checks--Recommended Walk-Around Sequence Airplane Without Winglets
 
 .. image:: /images/AMP/Recommended_Walk_Around_Sequence_Airplane_With_Winglets.png
            :scale: 50%
            :alt: Recommended_Walk_Around_Sequence_Airplane_With_Winglets
            :align: center
 
-Figure 2: Recommended Walk-Around Sequence Airplane With Winglets
+Figure 2: Pre-Flight Checks--Recommended Walk-Around Sequence Airplane With Winglets

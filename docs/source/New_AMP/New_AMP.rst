@@ -8,9 +8,9 @@
            :alt: AC Aviation Logo
            :align: center
 
-==================================
- New Approved Maintenance Program
-==================================
+==============================================
+ New Approved Maintenance Program (\*New AMP)
+==============================================
 
 .. toctree::
    :maxdepth: 3
