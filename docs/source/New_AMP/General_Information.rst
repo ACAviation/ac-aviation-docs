@@ -7,7 +7,7 @@
  General Information
 =====================
 
-Preample
+Preamble
 ========
 
 This Maintenance Program is a part of, and shall be used in
